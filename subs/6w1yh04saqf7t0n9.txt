@@ -1,8 +1,1 @@
-vless://7baa571e-feb5-495a-9701-353218a78cf6@217.179.221.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ve.cishosts.org&fp=chrome&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&type=tcp&headerType=none#GB_United_Kingdom
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@vell.cishosts.org:8443?security=tls&sni=vell.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#DE_Germany
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@vel.cishosts.org:8443?security=tls&sni=vel.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#NL_Netherlands
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@vel.cishosts.org:8443?security=tls&sni=vel.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#DK_Denmark
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@vel.cishosts.org:8443?security=tls&sni=vel.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#NO_Norway
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@po.cishosts.org:443?security=tls&sni=po.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#PL_Poland
-trojan://oFbYJtE0S9FY-HGxToQrQ8umshKMgdHk@vel.cishosts.org:8443?security=tls&sni=vel.cishosts.org&fp=qq&type=tcp&alpn=h2,http/1.1#CH_Switzerland
-vless://7baa571e-feb5-495a-9701-353218a78cf6@193.25.216.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=qq&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&type=tcp&headerType=none#SE_Sweden
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#EXPIRED
